@@ -1,6 +1,6 @@
 # Menthor App 🌱🚀
 
-**Menthor App** is a **decentralized application store** built on the **Velas Network (EVM compatible)**. It is designed to enable users to easily discover, publish, and interact with decentralized applications (**DApps**) in a secure and user-friendly environment.
+**Menthor App** is a **decentralized application store** built on the **Polygon (zkEVM compatible)**. It is designed to enable users to easily discover, publish, and interact with decentralized applications (**DApps**) in a secure and user-friendly environment.
 
 ---
 
@@ -17,7 +17,7 @@ Menthor App is a Web3 platform that allows users and developers to:
 
 ## 🔧 Tech Stack
 
-- **Velas Network (EVM-compatible)**
+- **Polygon (zkEVM-compatible)**
 - **Solidity** (Smart Contracts)
 - **React / Next.js** (Web frontend)
 - **Flutter** (Mobile app frontend – Android & iOS)
